@@ -1,0 +1,9 @@
+.navbar{
+    min-width: 30px;
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+.nav-link{
+    font-size: 13pt;
+    color: white;
+}
